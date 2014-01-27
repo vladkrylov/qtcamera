@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 # ignore all images
 *.jpg
 
+=======
+>>>>>>> c9f881688f6ec6ab3d79020a18b57f721d74eb56
 # C++ objects and libs
 
 *.slo
@@ -20,4 +23,8 @@
 moc_*.cpp
 qrc_*.cpp
 Makefile
+<<<<<<< HEAD
 *-build-*
+=======
+*-build-*
+>>>>>>> c9f881688f6ec6ab3d79020a18b57f721d74eb56
